@@ -1,0 +1,1 @@
+just a personal terminal based DB, be able to store values, create categories and rows, and be able to create other databases
